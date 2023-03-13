@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans', 'sans-serif';
+    margin: auto 30px;
+    background-color: azure;
+    margin-bottom: 1em;
+}
+
+#credits{
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 2px;
+}
+
+#header-image{
+    width: 100%;
+}
